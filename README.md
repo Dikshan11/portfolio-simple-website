@@ -8,8 +8,10 @@
 💥Pure HTML and CSS – no frameworks or JavaScript.
 
 📁 Technologies Used
+
 🔷HTML5
 🔶CSS3
 
 🎯 Purpose
+
 💥This is my own web presence and portfolio. It could also be employed as a template for anyone creating their own basic, static portfolio website.
