@@ -5,6 +5,7 @@
 🚀 Features
 
 💥Sbout Me and Contact sections.
+
 💥Pure HTML and CSS – no frameworks or JavaScript.
 
 📁 Technologies Used
